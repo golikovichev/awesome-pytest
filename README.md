@@ -142,6 +142,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-monitor](https://github.com/CFMTech/pytest-monitor) - Pytest-monitor is a pytest plugin designed for analyzing resource usage.
 
+[pytest-neon](https://github.com/ZainRizvi/pytest-neon) - Pytest plugin for Neon database branch isolation. Each test gets its own isolated database state via Neon's instant branching.
+
 [pytest-opentelemetry](https://github.com/chrisguidry/pytest-opentelemetry) - Instruments your pytest runs, exporting the spans and timing via OpenTelemetry.
 
 [pytest-picked](https://pypi.org/project/pytest-picked/) - Run tests related to changes detected by version control (e.g. run all tests in test files with unstaged changes).
