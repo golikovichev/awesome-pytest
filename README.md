@@ -86,6 +86,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [Requests - Python HTTP Requests for Humans™ and Pytest](https://github.com/requests/requests/tree/master/tests)
 
+[postman2pytest](https://github.com/golikovichev/postman2pytest) - Convert Postman v2 collections to runnable pytest test suites with parametrised fixtures and auth handling.
+
 ## Plugins
 
 [Plugin List](https://docs.pytest.org/en/latest/reference/plugin_list.html) - PyPI projects that match “pytest-*” are considered plugins and are listed automatically. Packages classified as inactive are excluded. This list contains 865 plugins.
