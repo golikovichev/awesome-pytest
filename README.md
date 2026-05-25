@@ -72,6 +72,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [A checklist of best practices to speed up your pytest suite](https://github.com/zupo/awesome-pytest-speedup)
 
+[pytest-ranking: A Regression Test Prioritization Tool for Python](https://dl.acm.org/doi/10.1145/3696630.3728587)
+
 ## Presentations
 
 [Adopt-a-pytest](https://www.youtube.com/watch?v=0BzXV0J3-v8) - [slides](https://speakerdeck.com/daneah/adopt-a-pytest)
@@ -191,3 +193,5 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 [pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
 
 [syrupy](https://github.com/tophat/syrupy) - The sweeter pytest snapshot plugin. It enables developers to write tests which assert immutability of computed results.
+
+[pytest-ranking](https://github.com/softwareTestingResearch/pytest-ranking) - This pytest plugin allows you to find regression test failures faster and receive testing feedback sooner from CI build. It speeds up the failure detection of your test suite by executing earlier the tests that are faster, recently failed, and more code-change-related.
