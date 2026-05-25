@@ -4,6 +4,10 @@
   <img src='https://raw.githubusercontent.com/augustogoulart/awesome-pytest/master/final.jpg'>
 </p>
 
+## AI
+- Recently published plugins won't be accepted.
+- No form of AI slope is accepted.
+
 ## Contents
 
 - [Books](#books)
