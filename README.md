@@ -119,6 +119,8 @@ Pytest Quick Start Guide by Bruno Oliveira - [Packt (publisher)](https://www.pac
 
 [pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - Tests code blocks in your READMEs.
 
+[pytest-conversational](https://github.com/golikovichev/pytest-conversational) - A pytest plugin for testing chatbots, voice IVR, and other conversational interfaces. Write rule-based, multi-turn dialogue assertions with no LLM dependency.
+
 [pytest-cov](https://pypi.org/project/pytest-cov/) - This plugin produces coverage reports
 
 [pytest-datadir](https://github.com/gabrielcnr/pytest-datadir) - pytest plugin for manipulating test data directories and files
